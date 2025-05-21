@@ -1,4 +1,4 @@
-package com.mauricio.modulo2.project;
+package com.mauricio.modulo2.project.common;
 
 public interface Coach {
 

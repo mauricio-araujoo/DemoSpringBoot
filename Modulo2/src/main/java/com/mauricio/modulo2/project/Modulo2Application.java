@@ -2,7 +2,12 @@ package com.mauricio.modulo2.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//
+//@SpringBootApplication(
+//		scanBasePackages = {"com.mauricio.modulo2",
+//							"com.mauricio.util"
+//		}
+//)
 @SpringBootApplication
 public class Modulo2Application {
 
