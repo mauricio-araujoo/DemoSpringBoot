@@ -23,9 +23,9 @@ public class CrudApplication {
 			criarEstudante(db);
 			//findStudent(db);
 			//queryForStudents(db);
-			queryForStudentsByLastName(db);
-			updateStudent(db);
-			deleteStudent(db);
+			//queryForStudentsByLastName(db);
+			//updateStudent(db);
+			//deleteStudent(db);
 		};
 	}
 
